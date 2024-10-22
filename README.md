@@ -15,8 +15,9 @@ Screenshots
 Include some screenshots of your app running on different platforms (web, Android, iOS).
 
 <img width="288" alt="Screenshot 2024-10-22 at 17 27 40" src="https://github.com/user-attachments/assets/458a7c09-085e-4fe4-af38-cbc11898114e">
-<img width="290" alt="Screenshot 2024-10-22 at 17 40 19" src="https://github.com/user-attachmen![WhatsApp Image 2024-10-22 at 5 44 24 PM](https://github.com/user-attachments/assets/daf90323-0526-425c-b932-7ce0f3940c29)
-ts/assets/7399d7ef-2bbf-4fad-88d3-679d5c5045eb">
+<img width="290" alt="Screenshot 2024-10-22 at 17 40 19" src="https://github.com/user-attachments/assets/6a9822c6-0b49-4b2b-b3d8-274cac3fae9b">
+
+![WhatsApp Image 2024-10-22 at 5 44 24 PM](https://github.com/user-attachments/assets/cba379c5-813f-47aa-bb93-72e62f434e18)
 
 
 
