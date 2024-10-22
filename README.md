@@ -16,4 +16,6 @@ Include some screenshots of your app running on different platforms (web, Androi
 
 <img width="288" alt="Screenshot 2024-10-22 at 17 27 40" src="https://github.com/user-attachments/assets/458a7c09-085e-4fe4-af38-cbc11898114e">
 <img width="290" alt="Screenshot 2024-10-22 at 17 40 19" src="https://github.com/user-attachments/assets/7399d7ef-2bbf-4fad-88d3-679d5c5045eb">
-![WhatsApp Image 2024-10-22 at 5 44 24 PM](https://github.com/user-attachments/assets/19d406ab-b764-4d2c-b05e-75b50d7062f3)
+![WhatsApp Image 2024-10-22 at 5 44 24 PM](https://github.com/user-attachments/assets/bd4cb7c6-5cbd-4322-94d6-a2328505ad3c)
+
+
